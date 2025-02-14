@@ -452,6 +452,7 @@ textarea::placeholder{
     }
     .aboutus{
         width: 100vw;
+        padding: 8%;
     }
     .personalinfo{
         gap: 24px;
